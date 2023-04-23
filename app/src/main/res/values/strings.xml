@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesPro</string>
+    <string name="hello">Hello.</string>
+    <string name="let_get_started">Let get started.</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="login">Login</string>
+</resources>
