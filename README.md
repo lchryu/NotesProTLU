@@ -1,6 +1,7 @@
 # NotesPro
 ## TECHNOLOGIES
-- Java Firebase
+- Java 
+- Firebase
 ## DESCRIPTION
 - Note app
 - CRUD with firebase
